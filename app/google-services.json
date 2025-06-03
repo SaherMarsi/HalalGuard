@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "689136199596",
+    "firebase_url": "https://cpit405-groupproject-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "cpit405-groupproject",
+    "storage_bucket": "cpit405-groupproject.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:689136199596:android:4a431f0143aa7e3b79fc09",
+        "android_client_info": {
+          "package_name": "com.example.projectfoodproject490"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCaYP5qqSnjrC2addLZQqHVLeDEC3kB2g0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
